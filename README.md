@@ -31,6 +31,6 @@ Estoy abierto a oportunidades laborales, ya sea de forma presencial o remota.
 ## Contáctame
 
 ¡No dudes en contactarme! Puedes encontrarme en :
-- [LinkedIn]([https://www.linkedin.com/in/lola-pernigotti-589830276/](https://www.linkedin.com/in/lautaro-bascoy-34586126a/))
+- [LinkedIn]([https://www.linkedin.com/in/lola-pernigotti-589830276/](https://www.linkedin.com/in/lautaro-bascoy-34586126a/)
 - correo : lautarobascoy892@gmail.com
 
