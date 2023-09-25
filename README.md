@@ -1,17 +1,20 @@
-# ¡Hola, soy Lola Pernigotti! 👋
+# ¡Hola, soy Lautaro Bascoy! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy una apasionada del desarrollo web, tanto en el ámbito front-end como back-end. Vivo en Argentina y actualmente estoy enfocada en mejorar mis habilidades y conocimientos para insertarme en el mundo laboral.
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado del desarrollo web, tanto en el ámbito front-end como back-end. Vivo en Argentina y actualmente estoy enfocado en mejorar mis habilidades y conocimientos para insertarme en el mundo laboral.
 
 ## Sobre mí
 
-Soy estudiante de desarrollo web que busca oportunidades para crecer y aprender. 
+Anteriormente ejercí mi trabajo en el campo de la salud mental como Acompañante Terapéutico
+
+Actualmente soy estudiante de desarrollo web que busca oportunidades para crecer y aprender. 
 Me apasiona la creación de soluciones digitales.
-Estoy abierta a oportunidades laborales, ya sea de forma presencial o remota.
+Estoy abierto a oportunidades laborales, ya sea de forma presencial o remota.
 
 ## Tecnologías
 
 ### Front-End
 
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/)
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&link=https://reactjs.org/)
 - ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white&link=https://redux.js.org/)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -23,10 +26,11 @@ Estoy abierta a oportunidades laborales, ya sea de forma presencial o remota.
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white&link=https://nodejs.org/)
 - ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white&link=https://expressjs.com/)
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white&link=https://www.postgresql.org/)
-
-### Aprendiendo
-
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/)
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&link=https://www.mongodb.com/)
 
-## Último Proyecto: Yummy - Página Web de Recetas de Comida
+## Contáctame
+
+¡No dudes en contactarme! Puedes encontrarme en :
+- [LinkedIn]([https://www.linkedin.com/in/lola-pernigotti-589830276/](https://www.linkedin.com/in/lautaro-bascoy-34586126a/))
+- correo : lautarobascoy892@gmail.com
+
